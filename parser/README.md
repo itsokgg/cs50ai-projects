@@ -1,5 +1,5 @@
 # 🧠 Parser  
-[_CS50AI Project 6_](https://cs50.harvard.edu/ai/projects/6/parser/)
+[_CS50AI Project 6/parser_](https://cs50.harvard.edu/ai/projects/6/parser/)
 
 ## 📖 Overview  
 **Parser** is a natural language parser built using [NLTK](https://www.nltk.org/).  
